@@ -5,3 +5,4 @@ pandas
 requests
 gtts
 python-dotenv
+fpdf
